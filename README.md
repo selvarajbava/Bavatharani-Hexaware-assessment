@@ -1,1 +1,0 @@
-# Bavatharani-Hexaware-assessment
