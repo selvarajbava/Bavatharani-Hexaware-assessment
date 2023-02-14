@@ -1,0 +1,12 @@
+create table customer
+(
+CUSTOMER_NUMBER varchar(20) primary key,
+FIRSTNAME varchar(50) NOT NULL,
+middlename varchar(40),
+lastname varchar(30) NOT NULL,
+CUSTOMER_CITY varchar(30) NOT NULL,
+CUSTOMER_CONTACT_NO varchar(10) NOT NULL,
+occuption varchar(20) NOT NULL,
+CUSTOMER_DATE_OF_BIRTH date
+)
+SELECT *from customer
